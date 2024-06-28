@@ -51,12 +51,12 @@ Select you preferred handling in case of sync conflicts with earlier changes. Ch
 
 ```{image} _images/Preferences_Versions_macOS.png
 :alt: Preferences Versions (macOS)
-:width: 400px
+:width: 600px
 ```
 
 Alternatively, use the corresponding option in the bookmark configuration to enable or disable versioning for specific connections only.
 
-```{image} _images/Bookmark_Versions_macOS.png
+```{image} _images/Bookmark_Versioning_macOS.png
 :alt: Bookmark Versioning
 :width: 400px
 ```
